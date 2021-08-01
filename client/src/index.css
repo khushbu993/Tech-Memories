@@ -1,0 +1,10 @@
+body {
+  background-color: #ffffff;
+  background-image: radial-gradient(
+    circle farthest-corner at 10% 20%,
+    rgba(205, 243, 254, 1) 0%,
+    rgba(205, 243, 254, 1) 90%
+  );
+  background-attachment: fixed;
+  background-size: cover;
+}
